@@ -3228,6 +3228,6 @@ input, select, textarea {
 }
 
 .imgoutline:hover{
-	border: none;
+	border: 2px solid rgb(0,0,0,0);
 	
 }
