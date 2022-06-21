@@ -3231,3 +3231,9 @@ input, select, textarea {
 	border: 2px solid rgb(0,0,0,0);
 	
 }
+
+h2 {
+	color: #df9b27;
+	text-decoration: underline;
+	text-underline-offset: 0.5rem;
+}
